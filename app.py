@@ -17,4 +17,6 @@ app.add_page("Malaria Detection", page_malaria_detector_body)
 app.add_page("Project Hypothesis", page_project_hypothesis_body)
 app.add_page("ML Performance Metrics", page_ml_performance_metrics)
 
+print("App is running")
+
 app.run()  # Run the app
