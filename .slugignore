@@ -1,0 +1,7 @@
+# .slugignore
+.git/
+*.pyc
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+datasets/
